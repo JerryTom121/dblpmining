@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from lib.fptree import *
 from lib.analysis import *
 import sys
